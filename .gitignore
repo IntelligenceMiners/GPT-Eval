@@ -1,0 +1,38 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+*.log
+
+# --- Notebooks ---
+.ipynb_checkpoints/
+
+# --- OS/Editor ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- Data and outputs (don’t commit raw files) ---
+# If you want to keep directory structure, add a .gitkeep in each.
+input data/**
+!input data/.gitkeep
+
+output files/**
+!output files/.gitkeep
+
+figures/**
+!figures/.gitkeep
+
+# If you also use a "data/" folder:
+data/**
+!data/.gitkeep
+
+# --- Model/transformer caches (optional but handy) ---
+.cache/
+huggingface/
+transformers_cache/
+torch_cache/

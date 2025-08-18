@@ -1,0 +1,500 @@
+{"IndustryID": 1, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the capital city of Mongolia?"}
+{"IndustryID": 1, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How do you paint a landscape using watercolor?"}
+{"IndustryID": 1, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who composed the music for the ballet \"Swan Lake\"?"}
+{"IndustryID": 1, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What are the different types of clouds found in the Earth's atmosphere?"}
+{"IndustryID": 1, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How do you play the card game Solitaire?"}
+{"IndustryID": 2, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the history of the Eiffel Tower?"}
+{"IndustryID": 2, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How do you create a charcoal sketch?"}
+{"IndustryID": 2, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What are the rules of the ancient board game Go?"}
+{"IndustryID": 2, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. Who invented the telephone?"}
+{"IndustryID": 2, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What causes the northern lights?"}
+{"IndustryID": 3, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the distinguishing features of Neo-Impressionism in art?"}
+{"IndustryID": 3, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How do tectonic plates influence the formation of mountains?"}
+{"IndustryID": 3, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who invented the printing press and what was its impact on society?"}
+{"IndustryID": 3, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What is the basic principle behind a clock pendulum?"}
+{"IndustryID": 3, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How is the scoring system structured in the game of cricket?"}
+{"IndustryID": 4, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the tallest mountain in South America?"}
+{"IndustryID": 4, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How many symphonies did Beethoven compose?"}
+{"IndustryID": 4, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What are the rules of cricket?"}
+{"IndustryID": 4, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. Who painted the Mona Lisa?"}
+{"IndustryID": 4, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What is the capital city of Egypt?"}
+{"IndustryID": 5, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the difference between a violin and a viola?"}
+{"IndustryID": 5, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How do coral reefs form in the ocean?"}
+{"IndustryID": 5, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What inspired Vincent van Gogh's painting \"Starry Night\"?"}
+{"IndustryID": 5, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. How many bones are in the human body?"}
+{"IndustryID": 5, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What is the plot of Shakespeare's play \"Hamlet\"?"}
+{"IndustryID": 6, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the key characteristics of Impressionist paintings?"}
+{"IndustryID": 6, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How does plate tectonics affect the formation of mountains?"}
+{"IndustryID": 6, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What is the significance of the Rosetta Stone in deciphering Egyptian hieroglyphs?"}
+{"IndustryID": 6, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. Who was the main villain in the final season of \"Game of Thrones\"?"}
+{"IndustryID": 6, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What are the basic steps to grow a bonsai tree from seed?"}
+{"IndustryID": 7, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the key characteristics of Baroque period art?"}
+{"IndustryID": 7, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How does photosynthesis occur in plants?"}
+{"IndustryID": 7, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What was the significance of the Magna Carta in history?"}
+{"IndustryID": 7, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. How are black holes formed in space?"}
+{"IndustryID": 7, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What is the cultural importance of salsa dancing in Latin America?"}
+{"IndustryID": 8, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the different types of classical Indian dance forms?"}
+{"IndustryID": 8, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How is a solar eclipse different from a lunar eclipse?"}
+{"IndustryID": 8, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who wrote the play \"A Midsummer Night's Dream\"?"}
+{"IndustryID": 8, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What is the capital city of Norway?"}
+{"IndustryID": 8, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How do you care for a bonsai tree?"}
+{"IndustryID": 9, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the rules of the ancient Roman board game Ludus Latrunculorum?"}
+{"IndustryID": 9, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How do volcanoes form and erupt?"}
+{"IndustryID": 9, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What are the most famous works of the artist Salvador Dal\u00ed?"}
+{"IndustryID": 9, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. How is a traditional British afternoon tea typically served?"}
+{"IndustryID": 9, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What is the history behind the discovery of penicillin?"}
+{"IndustryID": 10, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the steps to create a mosaic tile artwork?"}
+{"IndustryID": 10, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How do you identify different constellations in the night sky?"}
+{"IndustryID": 10, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who wrote the play \"A Midsummer Night's Dream\"?"}
+{"IndustryID": 10, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What is the capital city of Argentina?"}
+{"IndustryID": 10, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How do plants perform photosynthesis?"}
+{"IndustryID": 11, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the tallest mountain in South America?"}
+{"IndustryID": 11, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How does photosynthesis occur in plants?"}
+{"IndustryID": 11, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who painted the Mona Lisa?"}
+{"IndustryID": 11, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What are the rules of chess?"}
+{"IndustryID": 11, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How do you bake a chocolate cake from scratch?"}
+{"IndustryID": 12, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the rules of curling, and how is it played?"}
+{"IndustryID": 12, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. Who painted the \"Starry Night\" and what is its significance in art history?"}
+{"IndustryID": 12, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. How are the rings of Saturn formed and maintained?"}
+{"IndustryID": 12, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What techniques are used for growing bonsai trees?"}
+{"IndustryID": 12, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What was the impact of the Renaissance on European culture?"}
+{"IndustryID": 13, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What were the causes of the French Revolution?"}
+{"IndustryID": 13, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How do you train a dog to perform tricks?"}
+{"IndustryID": 13, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What are the characteristics of Impressionist painting?"}
+{"IndustryID": 13, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What is the capital city of Mongolia?"}
+{"IndustryID": 13, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How does a solar eclipse occur?"}
+{"IndustryID": 14, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the different phases of the moon?"}
+{"IndustryID": 14, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How is charcoal used in art?"}
+{"IndustryID": 14, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Which country has the most UNESCO World Heritage Sites?"}
+{"IndustryID": 14, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What was the main cause of the fall of the Roman Empire?"}
+{"IndustryID": 14, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How do honeybees communicate with each other?"}
+{"IndustryID": 15, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the capital city of Mongolia?"}
+{"IndustryID": 15, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. Who composed the opera \"The Marriage of Figaro\"?"}
+{"IndustryID": 15, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. How do you care for a bonsai tree?"}
+{"IndustryID": 15, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What are the differences between a stalactite and a stalagmite?"}
+{"IndustryID": 15, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What was the main cause of the fall of the Roman Empire?"}
+{"IndustryID": 16, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the different styles of medieval European castles?"}
+{"IndustryID": 16, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How do penguins communicate with each other in the wild?"}
+{"IndustryID": 16, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who composed the music for the opera \"The Magic Flute\"?"}
+{"IndustryID": 16, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What is the mechanism behind a solar eclipse?"}
+{"IndustryID": 16, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How can you identify constellations in the night sky?"}
+{"IndustryID": 17, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the capital city of Australia?"}
+{"IndustryID": 17, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How do you bake a sourdough bread from scratch?"}
+{"IndustryID": 17, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who painted the Sistine Chapel ceiling?"}
+{"IndustryID": 17, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What is the life cycle of a monarch butterfly?"}
+{"IndustryID": 17, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How does a solar eclipse occur?"}
+{"IndustryID": 18, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the lifecycle of a monarch butterfly?"}
+{"IndustryID": 18, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. Who composed the music for the ballet \"Swan Lake\"?"}
+{"IndustryID": 18, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What are the seven wonders of the ancient world?"}
+{"IndustryID": 18, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. How is chocolate made from cacao beans?"}
+{"IndustryID": 18, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What are the rules of chess?"}
+{"IndustryID": 19, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the significance of the color blue in Picasso's paintings?"}
+{"IndustryID": 19, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How tall is the tallest mountain in Africa?"}
+{"IndustryID": 19, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Can you explain the rules of chess?"}
+{"IndustryID": 19, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What are the steps to perform a basic card trick?"}
+{"IndustryID": 19, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. Who wrote the novel \"Pride and Prejudice\"?"}
+{"IndustryID": 20, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the highest mountain in South America?"}
+{"IndustryID": 20, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How do you create a watercolor painting of a sunset?"}
+{"IndustryID": 20, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who composed the Symphony No. 9 in D minor, Op. 125?"}
+{"IndustryID": 20, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What are the steps to bake a classic French baguette?"}
+{"IndustryID": 20, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How does photosynthesis occur in plants?"}
+{"IndustryID": 21, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the capital city of Mongolia?"}
+{"IndustryID": 21, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How can you start learning to play the saxophone?"}
+{"IndustryID": 21, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who painted the Mona Lisa?"}
+{"IndustryID": 21, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What are the different phases of the moon?"}
+{"IndustryID": 21, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How does photosynthesis work in plants?"}
+{"IndustryID": 22, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the three laws of thermodynamics?"}
+{"IndustryID": 22, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How many countries does the Amazon River flow through?"}
+{"IndustryID": 22, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What techniques did Vincent van Gogh use in his paintings?"}
+{"IndustryID": 22, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. Who was the first President of the United States?"}
+{"IndustryID": 22, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How do bees communicate within their hive?"}
+{"IndustryID": 23, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the largest desert in the world?"}
+{"IndustryID": 23, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How do you paint a landscape using watercolors?"}
+{"IndustryID": 23, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What is the main plot of the novel \"1984\" by George Orwell?"}
+{"IndustryID": 23, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. How is a solar eclipse different from a lunar eclipse?"}
+{"IndustryID": 23, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What are the primary colors used in graphic design?"}
+{"IndustryID": 24, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the capital city of Mongolia?"}
+{"IndustryID": 24, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How does an electric car generate power?"}
+{"IndustryID": 24, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who painted the Sistine Chapel ceiling?"}
+{"IndustryID": 24, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What are the steps in the rock cycle?"}
+{"IndustryID": 24, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How do penguins keep warm in extreme cold?"}
+{"IndustryID": 25, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What was the significance of Van Gogh's \"Starry Night\" in art history?"}
+{"IndustryID": 25, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How do tectonic plates cause earthquakes?"}
+{"IndustryID": 25, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What are the rules for scoring in soccer?"}
+{"IndustryID": 25, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. Who composed the music for the opera \"La Traviata\"?"}
+{"IndustryID": 25, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How is a rainbow formed in the sky?"}
+{"IndustryID": 26, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the defining characteristics of Baroque art?"}
+{"IndustryID": 26, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How do penguins stay warm in icy climates?"}
+{"IndustryID": 26, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who wrote the novel \"Pride and Prejudice\"?"}
+{"IndustryID": 26, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What is the chemical formula for table salt?"}
+{"IndustryID": 26, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How do solar panels generate electricity?"}
+{"IndustryID": 27, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the capital city of Mongolia?"}
+{"IndustryID": 27, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How do honeybees communicate with each other?"}
+{"IndustryID": 27, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who painted the Mona Lisa?"}
+{"IndustryID": 27, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What is the significance of the Rosetta Stone in history?"}
+{"IndustryID": 27, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How do you play the card game Bridge?"}
+{"IndustryID": 28, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the primary colors of light in the RGB spectrum?"}
+{"IndustryID": 28, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. Which ancient civilization built Machu Picchu?"}
+{"IndustryID": 28, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. How is a haiku poem traditionally structured?"}
+{"IndustryID": 28, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What was the first animated feature film released by Disney?"}
+{"IndustryID": 28, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How does a bee communicate the location of flowers to its hive?"}
+{"IndustryID": 29, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. How many continents are there in the world?"}
+{"IndustryID": 29, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. What is the capital city of Peru?"}
+{"IndustryID": 29, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who painted the Mona Lisa?"}
+{"IndustryID": 29, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. How do honeybees communicate with each other?"}
+{"IndustryID": 29, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What is the main plot of the book \"Pride and Prejudice\"?"}
+{"IndustryID": 30, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the history behind the Great Wall of China?"}
+{"IndustryID": 30, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How can you identify different types of clouds in the sky?"}
+{"IndustryID": 30, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What techniques are used in watercolor painting to create texture?"}
+{"IndustryID": 30, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. Who composed the music for the ballet \"Swan Lake\"?"}
+{"IndustryID": 30, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What are the basic rules of chess?"}
+{"IndustryID": 31, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the different phases of the moon?"}
+{"IndustryID": 31, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How did Impressionism influence modern art?"}
+{"IndustryID": 31, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What is the fastest land animal on Earth?"}
+{"IndustryID": 31, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. How do volcanoes form and erupt?"}
+{"IndustryID": 31, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. Who wrote the play \"A Midsummer Night's Dream\"?"}
+{"IndustryID": 32, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the steps to perform a classical ballet pirouette?"}
+{"IndustryID": 32, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How is cheese aged to develop different flavors?"}
+{"IndustryID": 32, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What was the primary cause of the fall of the Roman Empire?"}
+{"IndustryID": 32, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. When did Vincent van Gogh paint \"Starry Night\"?"}
+{"IndustryID": 32, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How do you identify constellations in the night sky?"}
+{"IndustryID": 33, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the tallest mountain in South America?"}
+{"IndustryID": 33, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How do bees communicate with each other?"}
+{"IndustryID": 33, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who painted the Mona Lisa?"}
+{"IndustryID": 33, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What are the rules of chess?"}
+{"IndustryID": 33, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How do volcanoes form?"}
+{"IndustryID": 34, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the capital city of Mongolia?"}
+{"IndustryID": 34, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How does photosynthesis work in plants?"}
+{"IndustryID": 34, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What are the major themes in Shakespeare's play \"Macbeth\"?"}
+{"IndustryID": 34, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. How is the sound produced in a guitar?"}
+{"IndustryID": 34, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What was the impact of the printing press on society?"}
+{"IndustryID": 35, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the capital city of Mongolia?"}
+{"IndustryID": 35, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How does photosynthesis occur in plants?"}
+{"IndustryID": 35, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who invented the first mechanical clock?"}
+{"IndustryID": 35, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What are the characteristics of Impressionist art?"}
+{"IndustryID": 35, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How many players are there on a professional basketball team?"}
+{"IndustryID": 36, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the basic steps to care for a bonsai tree?"}
+{"IndustryID": 36, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How were ancient Egyptian hieroglyphs deciphered?"}
+{"IndustryID": 36, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What are the most famous works of Vincent van Gogh?"}
+{"IndustryID": 36, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. How does the process of fermentation create alcohol?"}
+{"IndustryID": 36, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What is the significance of the Great Barrier Reef in Australia?"}
+{"IndustryID": 37, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the tallest mountain in South America?"}
+{"IndustryID": 37, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How do honeybees communicate with each other?"}
+{"IndustryID": 37, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What was the significance of the Renaissance period in European art history?"}
+{"IndustryID": 37, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. Which book won the Pulitzer Prize for Fiction in 1990?"}
+{"IndustryID": 37, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How do volcanoes form?"}
+{"IndustryID": 38, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. How do bees communicate with each other?"}
+{"IndustryID": 38, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. What is the significance of the Rosetta Stone in history?"}
+{"IndustryID": 38, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Can you explain how a solar eclipse occurs?"}
+{"IndustryID": 38, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. Who painted the ceiling of the Sistine Chapel?"}
+{"IndustryID": 38, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What are the basic rules for playing chess?"}
+{"IndustryID": 39, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the history behind Stonehenge?"}
+{"IndustryID": 39, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How are rainbows formed in the atmosphere?"}
+{"IndustryID": 39, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who composed the opera \"The Magic Flute\"?"}
+{"IndustryID": 39, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What techniques are used in traditional Japanese ink painting?"}
+{"IndustryID": 39, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How do hummingbirds hover in mid-air?"}
+{"IndustryID": 40, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the tallest mountain in Africa?"}
+{"IndustryID": 40, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How do plants perform photosynthesis?"}
+{"IndustryID": 40, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who painted the Mona Lisa?"}
+{"IndustryID": 40, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What are the basic rules of chess?"}
+{"IndustryID": 40, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How does the human digestive system work?"}
+{"IndustryID": 41, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the capital city of Mongolia?"}
+{"IndustryID": 41, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How do chameleons change their color?"}
+{"IndustryID": 41, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What is the significance of the Mona Lisa painting?"}
+{"IndustryID": 41, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. Who invented the first functional automobile?"}
+{"IndustryID": 41, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What is the main plot of 'The Lord of the Rings'?"}
+{"IndustryID": 42, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the distinctive architectural features of the Gothic style?"}
+{"IndustryID": 42, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How are fractals used in computer graphics?"}
+{"IndustryID": 42, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What is the legend behind the lost city of Atlantis?"}
+{"IndustryID": 42, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. Who painted the 'Starry Night' and what inspired it?"}
+{"IndustryID": 42, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How do meteorologists predict hurricanes?"}
+{"IndustryID": 43, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the capital city of Argentina?"}
+{"IndustryID": 43, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How was the Mona Lisa painting stolen in 1911?"}
+{"IndustryID": 43, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What are the basic steps in knitting a scarf?"}
+{"IndustryID": 43, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. Who wrote the novel \"Pride and Prejudice\"?"}
+{"IndustryID": 43, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How do jellyfish move through water?"}
+{"IndustryID": 44, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the capital city of Mongolia?"}
+{"IndustryID": 44, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. Who painted the famous artwork \"Starry Night\"?"}
+{"IndustryID": 44, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. How is solar energy converted into electricity?"}
+{"IndustryID": 44, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What are the basic rules for playing chess?"}
+{"IndustryID": 44, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What is the main storyline of the movie \"Titanic\"?"}
+{"IndustryID": 45, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the tallest mountain in South America?"}
+{"IndustryID": 45, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How is watercolor paint made?"}
+{"IndustryID": 45, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who wrote the novel \"1984\"?"}
+{"IndustryID": 45, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What are the rules of chess?"}
+{"IndustryID": 45, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How do you make homemade pasta?"}
+{"IndustryID": 46, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. How is maple syrup harvested and processed?"}
+{"IndustryID": 46, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. What are the main characteristics of Baroque architecture?"}
+{"IndustryID": 46, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who wrote the play \"Waiting for Godot\" and what's its central theme?"}
+{"IndustryID": 46, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What is the difference between a stalactite and a stalagmite?"}
+{"IndustryID": 46, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How is chocolate made from cacao beans?"}
+{"IndustryID": 47, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What causes the Northern Lights to appear in the sky?"}
+{"IndustryID": 47, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. Who painted the famous artwork \"The Starry Night\"?"}
+{"IndustryID": 47, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What is the significance of the discovery of the Higgs boson particle?"}
+{"IndustryID": 47, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. How is traditional Chinese tea prepared and served?"}
+{"IndustryID": 47, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What are the historical origins of the Olympic Games?"}
+{"IndustryID": 48, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the origin of the Easter Bunny tradition?"}
+{"IndustryID": 48, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How are the different types of clouds classified in meteorology?"}
+{"IndustryID": 48, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What techniques do artists use to create a watercolor painting?"}
+{"IndustryID": 48, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. How did the construction of the Eiffel Tower influence architecture?"}
+{"IndustryID": 48, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What are the basic rules for playing chess?"}
+{"IndustryID": 49, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the basic rules of cricket?"}
+{"IndustryID": 49, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How is a violin made?"}
+{"IndustryID": 49, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What is the capital city of Portugal?"}
+{"IndustryID": 49, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. Who wrote the play \"Hamlet\"?"}
+{"IndustryID": 49, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How do bees make honey?"}
+{"IndustryID": 50, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the process of making glass?"}
+{"IndustryID": 50, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How do you solve a Rubik's cube in under a minute?"}
+{"IndustryID": 50, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who was the first woman to fly in space?"}
+{"IndustryID": 50, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What are the main ingredients in a traditional Japanese sushi roll?"}
+{"IndustryID": 50, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How does the Internet work?"}
+{"IndustryID": 51, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the origin of the tango dance?"}
+{"IndustryID": 51, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How can you calculate the trajectory of a comet?"}
+{"IndustryID": 51, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What are the steps involved in fermenting kimchi?"}
+{"IndustryID": 51, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. Who composed the Four Seasons concerti?"}
+{"IndustryID": 51, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What causes the Northern Lights phenomenon?"}
+{"IndustryID": 52, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the capital city of Argentina?"}
+{"IndustryID": 52, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How do you create a watercolor painting effect using digital tools?"}
+{"IndustryID": 52, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What are the common characteristics of a Mediterranean climate?"}
+{"IndustryID": 52, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. Who composed the music for Beethoven's Symphony No. 5?"}
+{"IndustryID": 52, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How does photosynthesis take place in plants?"}
+{"IndustryID": 53, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the largest desert in the world?"}
+{"IndustryID": 53, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How did Vincent van Gogh influence modern art?"}
+{"IndustryID": 53, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What is the difference between a solstice and an equinox?"}
+{"IndustryID": 53, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. How did the ancient Egyptians build the pyramids?"}
+{"IndustryID": 53, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What are the basic rules for playing chess?"}
+{"IndustryID": 54, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the capital city of Australia?"}
+{"IndustryID": 54, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How do dolphins communicate with each other?"}
+{"IndustryID": 54, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who painted the Mona Lisa?"}
+{"IndustryID": 54, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What are the key characteristics of a tropical rainforest ecosystem?"}
+{"IndustryID": 54, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How do you bake a classic chocolate cake from scratch?"}
+{"IndustryID": 55, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the capital city of Mongolia?"}
+{"IndustryID": 55, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How are rainbows formed in the sky?"}
+{"IndustryID": 55, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who painted the Mona Lisa?"}
+{"IndustryID": 55, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What are the basic rules of chess?"}
+{"IndustryID": 55, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How does photosynthesis work in plants?"}
+{"IndustryID": 56, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What causes the Northern Lights?"}
+{"IndustryID": 56, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How do you paint a watercolor sunset scene?"}
+{"IndustryID": 56, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What was the significance of the Rosetta Stone in archaeology?"}
+{"IndustryID": 56, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. How does a volcano form and erupt?"}
+{"IndustryID": 56, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. Who composed the music for the ballet \"Swan Lake\"?"}
+{"IndustryID": 57, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the largest desert in the world?"}
+{"IndustryID": 57, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How can someone start painting with watercolors?"}
+{"IndustryID": 57, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What are the main causes of the American Civil War?"}
+{"IndustryID": 57, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. How does photosynthesis occur in plants?"}
+{"IndustryID": 57, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. Who composed the music for the opera \"The Magic Flute\"?"}
+{"IndustryID": 58, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the longest river in South America?"}
+{"IndustryID": 58, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How does a microwave oven heat food?"}
+{"IndustryID": 58, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who painted the Mona Lisa?"}
+{"IndustryID": 58, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What is the typical lifespan of a domestic cat?"}
+{"IndustryID": 58, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How is chocolate made from cocoa beans?"}
+{"IndustryID": 59, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the main architectural features of the Gothic style?"}
+{"IndustryID": 59, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. Who painted the \"Mona Lisa\" and what is its historical significance?"}
+{"IndustryID": 59, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. How does a seed grow into a tree?"}
+{"IndustryID": 59, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What are the rules for playing chess?"}
+{"IndustryID": 59, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How is climate change affecting polar bear populations?"}
+{"IndustryID": 60, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the capital city of Bhutan?"}
+{"IndustryID": 60, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How does photosynthesis occur in plants?"}
+{"IndustryID": 60, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who painted the Mona Lisa?"}
+{"IndustryID": 60, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What are the rules of a standard chess game?"}
+{"IndustryID": 60, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How does a prism separate light into different colors?"}
+{"IndustryID": 61, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the basic principles of bonsai tree cultivation?"}
+{"IndustryID": 61, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How were the pyramids in Egypt constructed?"}
+{"IndustryID": 61, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What is the origin of the phrase \"break a leg\" in theater?"}
+{"IndustryID": 61, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. Which animal has the longest migratory journey?"}
+{"IndustryID": 61, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How is chocolate made from cacao beans?"}
+{"IndustryID": 62, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the different styles of Impressionist painting?"}
+{"IndustryID": 62, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How is ancient Egyptian hieroglyphics deciphered?"}
+{"IndustryID": 62, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What causes the Northern Lights to appear in the sky?"}
+{"IndustryID": 62, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. Who invented the first electric guitar?"}
+{"IndustryID": 62, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What are the rules of cricket?"}
+{"IndustryID": 63, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the historical significance of the Great Wall of China?"}
+{"IndustryID": 63, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How do you play a C major chord on the piano?"}
+{"IndustryID": 63, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What are the primary colors in color theory?"}
+{"IndustryID": 63, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. Who wrote the novel \"Pride and Prejudice\"?"}
+{"IndustryID": 63, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What is the chemical formula for table salt?"}
+{"IndustryID": 64, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. How do you create a mosaic artwork using tiles?"}
+{"IndustryID": 64, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. What are some common bird species native to the Amazon rainforest?"}
+{"IndustryID": 64, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. When was the first novel published, and who wrote it?"}
+{"IndustryID": 64, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What is the traditional method of making Italian gelato?"}
+{"IndustryID": 64, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How do volcanoes form and erupt?"}
+{"IndustryID": 65, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the capital city of New Zealand?"}
+{"IndustryID": 65, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How is digital art created using a graphics tablet?"}
+{"IndustryID": 65, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who composed the opera \"The Magic Flute\"?"}
+{"IndustryID": 65, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What are the layers of Earth's atmosphere?"}
+{"IndustryID": 65, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How do you care for a bonsai tree?"}
+{"IndustryID": 66, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the basic principles of quantum mechanics?"}
+{"IndustryID": 66, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. Who painted the famous artwork \"The Starry Night\"?"}
+{"IndustryID": 66, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. How do you care for a bonsai tree?"}
+{"IndustryID": 66, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What is the tallest mountain in the world?"}
+{"IndustryID": 66, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. Who wrote the novel \"To Kill a Mockingbird\"?"}
+{"IndustryID": 67, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What causes the northern lights?"}
+{"IndustryID": 67, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How is a haiku poem traditionally structured?"}
+{"IndustryID": 67, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who painted the Mona Lisa?"}
+{"IndustryID": 67, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What is the main theme of the novel \"To Kill a Mockingbird\"?"}
+{"IndustryID": 67, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How do bees communicate with each other?"}
+{"IndustryID": 68, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the significance of the color blue in Renaissance art?"}
+{"IndustryID": 68, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. Which countries are part of the Scandinavian Peninsula?"}
+{"IndustryID": 68, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. How do honeybees communicate within their hive?"}
+{"IndustryID": 68, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. Who wrote \"The Catcher in the Rye\" and what is its main theme?"}
+{"IndustryID": 68, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What are the rules for playing a standard game of chess?"}
+{"IndustryID": 69, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the origins of the tango dance?"}
+{"IndustryID": 69, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How do volcanoes form and erupt?"}
+{"IndustryID": 69, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What is the story behind Vincent van Gogh's \"Starry Night\"?"}
+{"IndustryID": 69, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. How is lightning formed during a thunderstorm?"}
+{"IndustryID": 69, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What is the significance of the Rosetta Stone in understanding ancient languages?"}
+{"IndustryID": 70, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the benefits of practicing meditation daily?"}
+{"IndustryID": 70, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How is climate change affecting coral reefs?"}
+{"IndustryID": 70, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who wrote the play \"Macbeth\"?"}
+{"IndustryID": 70, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What is the capital city of Peru?"}
+{"IndustryID": 70, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How do bees communicate with each other?"}
+{"IndustryID": 71, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What year was the Statue of Liberty dedicated?"}
+{"IndustryID": 71, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How do you make homemade candle wax?"}
+{"IndustryID": 71, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What is the capital city of Argentina?"}
+{"IndustryID": 71, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. Who painted the Mona Lisa?"}
+{"IndustryID": 71, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What are the basic rules of chess?"}
+{"IndustryID": 72, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. How do volcanoes form and erupt?"}
+{"IndustryID": 72, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. What was the role of music in ancient Greek society?"}
+{"IndustryID": 72, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. How are holograms created and used in entertainment?"}
+{"IndustryID": 72, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What are the basic principles of quantum physics?"}
+{"IndustryID": 72, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How is traditional Chinese calligraphy taught?"}
+{"IndustryID": 73, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the life cycle of a butterfly?"}
+{"IndustryID": 73, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How did Impressionism change the art world in the 19th century?"}
+{"IndustryID": 73, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What are the basic steps to start a compost pile at home?"}
+{"IndustryID": 73, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. Who wrote the novel \"The Catcher in the Rye\"?"}
+{"IndustryID": 73, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What causes the Northern Lights?"}
+{"IndustryID": 74, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What was the impact of the Renaissance on European art?"}
+{"IndustryID": 74, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. Which element is denoted by the symbol 'Fe' on the periodic table?"}
+{"IndustryID": 74, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What are the primary colors used in painting?"}
+{"IndustryID": 74, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. How are fjords formed?"}
+{"IndustryID": 74, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. Who directed the movie \"Inception\"?"}
+{"IndustryID": 75, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the capital city of Mongolia?"}
+{"IndustryID": 75, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How do you create a comic book character from scratch?"}
+{"IndustryID": 75, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What are the basic steps in planting a vegetable garden?"}
+{"IndustryID": 75, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. How are constellations named and categorized?"}
+{"IndustryID": 75, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What significance does the color red have in Renaissance art?"}
+{"IndustryID": 76, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the basic rules of cricket?"}
+{"IndustryID": 76, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How did the Silk Road contribute to cultural exchange?"}
+{"IndustryID": 76, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What are the steps to perform a beginner's yoga routine?"}
+{"IndustryID": 76, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. Who composed the opera \"The Magic Flute\"?"}
+{"IndustryID": 76, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What is the significance of the Berlin Wall fall in 1989?"}
+{"IndustryID": 77, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. How do bees communicate within a hive?"}
+{"IndustryID": 77, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. What is the capital city of Mongolia?"}
+{"IndustryID": 77, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who painted the Sistine Chapel's ceiling?"}
+{"IndustryID": 77, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What are the basic steps to make homemade soap?"}
+{"IndustryID": 77, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How long does it take for light from the Sun to reach Earth?"}
+{"IndustryID": 78, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the natural habitats of polar bears?"}
+{"IndustryID": 78, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How do you brew the perfect cup of coffee?"}
+{"IndustryID": 78, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who composed \"The Four Seasons\"?"}
+{"IndustryID": 78, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What is the capital city of Madagascar?"}
+{"IndustryID": 78, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How are rainbows formed?"}
+{"IndustryID": 79, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the history behind the invention of the bicycle?"}
+{"IndustryID": 79, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How does photosynthesis occur in plants?"}
+{"IndustryID": 79, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who composed the music for the opera \"Carmen\"?"}
+{"IndustryID": 79, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What are the geological features of the Grand Canyon?"}
+{"IndustryID": 79, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How do you play the board game Settlers of Catan?"}
+{"IndustryID": 80, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. How is a haiku poem structured?"}
+{"IndustryID": 80, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. What causes the Aurora Borealis?"}
+{"IndustryID": 80, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who painted \"The Persistence of Memory\"?"}
+{"IndustryID": 80, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What is the tallest mountain in Africa?"}
+{"IndustryID": 80, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How does a hydroelectric power plant generate electricity?"}
+{"IndustryID": 81, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the origins of the Impressionist art movement?"}
+{"IndustryID": 81, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How do volcanoes form and erupt?"}
+{"IndustryID": 81, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What is the life cycle of a monarch butterfly?"}
+{"IndustryID": 81, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. Who composed the symphony \"Ode to Joy\"?"}
+{"IndustryID": 81, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What are the rules of the card game bridge?"}
+{"IndustryID": 82, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the process of making glass?"}
+{"IndustryID": 82, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How do you solve a Rubik's cube in under a minute?"}
+{"IndustryID": 82, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who was the first woman to fly in space?"}
+{"IndustryID": 82, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What are the main ingredients in a traditional Japanese sushi roll?"}
+{"IndustryID": 82, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How does the Internet work?"}
+{"IndustryID": 83, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the health benefits of practicing yoga regularly?"}
+{"IndustryID": 83, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How is chocolate made from cacao beans?"}
+{"IndustryID": 83, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who was the artist responsible for painting the Mona Lisa?"}
+{"IndustryID": 83, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What are the steps involved in brewing homemade beer?"}
+{"IndustryID": 83, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How do coral reefs form in the ocean?"}
+{"IndustryID": 84, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the capital city of Peru?"}
+{"IndustryID": 84, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How did Impressionism influence modern art?"}
+{"IndustryID": 84, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What are the steps involved in growing a bonsai tree?"}
+{"IndustryID": 84, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. Who developed the theory of relativity?"}
+{"IndustryID": 84, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What are the rules of Quidditch in the Harry Potter series?"}
+{"IndustryID": 85, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the capital city of Argentina?"}
+{"IndustryID": 85, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How did Impressionism change the art world?"}
+{"IndustryID": 85, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What causes the Aurora Borealis?"}
+{"IndustryID": 85, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. Can you explain the rules of chess in brief?"}
+{"IndustryID": 85, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. Who invented the first electric guitar?"}
+{"IndustryID": 86, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the benefits of practicing yoga daily?"}
+{"IndustryID": 86, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How is the art of traditional Irish dance taught?"}
+{"IndustryID": 86, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What causes the Northern Lights, or Aurora Borealis?"}
+{"IndustryID": 86, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. Who painted the Mona Lisa?"}
+{"IndustryID": 86, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What are the basic rules for playing chess?"}
+{"IndustryID": 87, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. How do honeybees communicate with each other?"}
+{"IndustryID": 87, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. What is the significance of color in Picasso's Blue Period?"}
+{"IndustryID": 87, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Which country has the largest number of active volcanoes?"}
+{"IndustryID": 87, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What are the basic rules for playing the game of chess?"}
+{"IndustryID": 87, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How does photosynthesis occur in underwater plants?"}
+{"IndustryID": 88, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the natural predators of sea turtles in the ocean?"}
+{"IndustryID": 88, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How is sound recorded on a vinyl record?"}
+{"IndustryID": 88, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What techniques are used in flower arranging?"}
+{"IndustryID": 88, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What is the legend of Atlantis in Greek mythology?"}
+{"IndustryID": 88, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. Which physical exercises can help improve flexibility?"}
+{"IndustryID": 89, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the history behind the invention of the telephone?"}
+{"IndustryID": 89, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How do bees communicate within their hives?"}
+{"IndustryID": 89, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What are the steps to paint a watercolor landscape?"}
+{"IndustryID": 89, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. Which countries are part of the Scandinavian region?"}
+{"IndustryID": 89, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What are some techniques for deep-sea diving safety?"}
+{"IndustryID": 90, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the key characteristics of Baroque music?"}
+{"IndustryID": 90, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How do lava lamps work?"}
+{"IndustryID": 90, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What is the history behind the Great Wall of China?"}
+{"IndustryID": 90, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. How do different weather patterns affect bird migration?"}
+{"IndustryID": 90, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What techniques are used in watercolor painting?"}
+{"IndustryID": 91, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the seven wonders of the ancient world?"}
+{"IndustryID": 91, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How is a Fibonacci sequence generated?"}
+{"IndustryID": 91, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What is the plot of Shakespeare's \"Hamlet\"?"}
+{"IndustryID": 91, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. How does the process of photosynthesis occur in plants?"}
+{"IndustryID": 91, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What is the significance of the Rosetta Stone in linguistics?"}
+{"IndustryID": 92, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the native habitat of the platypus?"}
+{"IndustryID": 92, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. Who painted \"Starry Night\"?"}
+{"IndustryID": 92, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. How many moons does Jupiter have?"}
+{"IndustryID": 92, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What is the chemical formula for table salt?"}
+{"IndustryID": 92, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What is the capital city of Iceland?"}
+{"IndustryID": 93, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the capital city of Mongolia?"}
+{"IndustryID": 93, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. Who painted the \"Mona Lisa\"?"}
+{"IndustryID": 93, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. How does a steam engine operate?"}
+{"IndustryID": 93, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What are some popular constellations visible in the northern hemisphere?"}
+{"IndustryID": 93, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What materials are used to build a traditional igloo?"}
+{"IndustryID": 94, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the lifespan of a giant sequoia tree?"}
+{"IndustryID": 94, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How does the Gregorian calendar differ from the Julian calendar?"}
+{"IndustryID": 94, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What are the basic steps to create a watercolor painting?"}
+{"IndustryID": 94, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. Who composed the opera \"The Magic Flute\"?"}
+{"IndustryID": 94, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What are the nutritional benefits of chia seeds?"}
+{"IndustryID": 95, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the capital city of Argentina?"}
+{"IndustryID": 95, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How many symphonies did Beethoven compose?"}
+{"IndustryID": 95, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What is the main function of chlorophyll in plants?"}
+{"IndustryID": 95, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. Who painted the \"Starry Night\"?"}
+{"IndustryID": 95, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How do you play the board game \"Monopoly\"?"}
+{"IndustryID": 96, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the basic principles of Feng Shui?"}
+{"IndustryID": 96, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How is blue cheese made?"}
+{"IndustryID": 96, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What is the history of the Eiffel Tower?"}
+{"IndustryID": 96, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. How do tides affect marine life?"}
+{"IndustryID": 96, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. Who wrote \"The Great Gatsby\"?"}
+{"IndustryID": 97, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the primary colors used in Renaissance paintings?"}
+{"IndustryID": 97, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How many bones are in an adult human body?"}
+{"IndustryID": 97, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What is the capital city of Nepal?"}
+{"IndustryID": 97, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. How does photosynthesis occur in plants?"}
+{"IndustryID": 97, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. Who wrote the play 'Hamlet'?"}
+{"IndustryID": 98, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the different stages of a butterfly's life cycle?"}
+{"IndustryID": 98, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. Which Italian artist painted the ceiling of the Sistine Chapel?"}
+{"IndustryID": 98, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. How do you grow your own tomatoes indoors?"}
+{"IndustryID": 98, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What are the rules for playing chess?"}
+{"IndustryID": 98, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. What is the longest river in South America?"}
+{"IndustryID": 99, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What is the capital city of Mongolia?"}
+{"IndustryID": 99, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How is electricity generated from wind turbines?"}
+{"IndustryID": 99, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. Who painted the Mona Lisa?"}
+{"IndustryID": 99, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. What are the rules for playing chess?"}
+{"IndustryID": 99, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. How do coral reefs form in the ocean?"}
+{"IndustryID": 100, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "1. What are the different types of clouds and how do they form?"}
+{"IndustryID": 100, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "2. How can you start a successful vegetable garden in an urban area?"}
+{"IndustryID": 100, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "3. What are the basic rules of chess for beginners?"}
+{"IndustryID": 100, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "4. How is chocolate made from cocoa beans?"}
+{"IndustryID": 100, "ScenarioID": "5'", "Tool": ["NULL"], "Query": "5. Who were the key figures in the development of calculus?"}
